@@ -1,0 +1,17 @@
+F:\vs2019Sample\WpfPasswrod\WpfPasswrod\obj\Debug\WpfPasswrod.csprojAssemblyReference.cache
+F:\vs2019Sample\WpfPasswrod\WpfPasswrod\obj\Debug\MainWindow.g.cs
+F:\vs2019Sample\WpfPasswrod\WpfPasswrod\obj\Debug\App.g.cs
+F:\vs2019Sample\WpfPasswrod\WpfPasswrod\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\vs2019Sample\WpfPasswrod\WpfPasswrod\obj\Debug\WpfPasswrod_MarkupCompile.cache
+F:\vs2019Sample\WpfPasswrod\WpfPasswrod\obj\Debug\WpfPasswrod_MarkupCompile.lref
+F:\vs2019Sample\WpfPasswrod\WpfPasswrod\bin\Debug\WpfPasswrod.exe.config
+F:\vs2019Sample\WpfPasswrod\WpfPasswrod\bin\Debug\WpfPasswrod.exe
+F:\vs2019Sample\WpfPasswrod\WpfPasswrod\bin\Debug\WpfPasswrod.pdb
+F:\vs2019Sample\WpfPasswrod\WpfPasswrod\obj\Debug\CustomControls\PasswordWithPlainText.g.cs
+F:\vs2019Sample\WpfPasswrod\WpfPasswrod\obj\Debug\CustomControls\PasswordWithPlainText.baml
+F:\vs2019Sample\WpfPasswrod\WpfPasswrod\obj\Debug\MainWindow.baml
+F:\vs2019Sample\WpfPasswrod\WpfPasswrod\obj\Debug\WpfPasswrod.g.resources
+F:\vs2019Sample\WpfPasswrod\WpfPasswrod\obj\Debug\WpfPasswrod.Properties.Resources.resources
+F:\vs2019Sample\WpfPasswrod\WpfPasswrod\obj\Debug\WpfPasswrod.csproj.GenerateResource.cache
+F:\vs2019Sample\WpfPasswrod\WpfPasswrod\obj\Debug\WpfPasswrod.exe
+F:\vs2019Sample\WpfPasswrod\WpfPasswrod\obj\Debug\WpfPasswrod.pdb
